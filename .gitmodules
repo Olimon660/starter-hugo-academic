@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Olimon660/simoncai.github.io.git
+	branch = main
