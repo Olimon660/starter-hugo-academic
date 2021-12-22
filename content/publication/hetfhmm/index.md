@@ -6,7 +6,7 @@ title: "HetFHMM: A novel approach to infer tumor heterogeneity using factorial H
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Gholamreza Haffari
-- Zhaoxiang Cai
+- admin
 - Mohammad S Rahman
 - Ann E Nicholson
 

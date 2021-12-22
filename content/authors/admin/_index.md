@@ -12,7 +12,7 @@ role: PhD Candidate
 organizations:
 - name: The University of Sydney
   url: https://www.sydney.edu.au/
-- name: Childrend' Medical Research Institute
+- name: Children's Medical Research Institute
   url: https://www.cmrijeansforgenes.org.au/research/research-teams/procan
 
 # Short bio (displayed in user profile at end of posts)
