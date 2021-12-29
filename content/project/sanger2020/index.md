@@ -6,9 +6,9 @@ tags:
 - Cancer
 - Proteomics
 - Drug response
-- CRISPR-Cas9 analysis
+- CRISPR-Cas9
 
-date: "2020-03-01T00:00:00Z"
+date: "2021-12-24T00:00:00Z"
 
 event: kca2021
 

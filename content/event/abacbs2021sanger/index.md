@@ -18,7 +18,7 @@ all_day: false
 publishDate: "2017-01-01T00:00:00Z"
 
 authors: ["Rebecca C Poulos", "Emanuel Gonçalves", "Zhaoxiang Cai", "Syd Barthorpe", "Srikanth S Manda", "Natasha Lucas", "Alexandra Beck", "Daniel Bucio-Noble", "Michael Dausmann", "Caitlin Hall", "Michael Hecker", "Jennifer Koh", "Sadia Mahboob", "Iman Mali", "James Morris", "Laura Richardson", "Akila J Seneviratne", "Erin Sykes", "Frances Thomas", "Sara Valentini", "Steven G Williams", "Yangxiu Wu", "Dylan Xavier", "Karen L MacKenzie", "Peter G Hains", "Brett Tully", "Phillip J Robinson", "Qing Zhong", "Mathew J Garnett", "Roger R Reddel"]
-tags: ["Deep Learning", "Multi-omics", "Transformer"]
+tags: ["Deep Learning", "Machine learning", "Multi-omics", "Pan-cancer", "Drug response", "CRISPR-Cas9"]
 
 # Is this a featured talk? (true/false)
 featured: false

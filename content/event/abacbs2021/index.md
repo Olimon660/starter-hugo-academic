@@ -1,5 +1,5 @@
 ---
-title: Integrating multi-omics data with biological knowledge by Transformer-based deep learning.
+title: Integrating multi-omics data with biological knowledge by Transformer-based deep learning
 
 event: THE COMBINED ABACBS AND PHYLOMANIA 2021 HYBRID CONFERENCE
 event_url: https://www.abacbs.org/conference2021

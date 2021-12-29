@@ -35,7 +35,7 @@ education:
     year: 2018
   - course: Hons of BSc in Computer Science
     institution: Monash University
-    year: 2013
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
