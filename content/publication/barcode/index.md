@@ -1,5 +1,5 @@
 ---
-title: "HetFHMM: A novel approach to infer tumor heterogeneity using factorial Hidden Markov model"
+title: "Barcode-Like Paper Sensor for Smartphone Diagnostics: An Application of Blood Typing"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
