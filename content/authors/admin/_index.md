@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=J-pGEioAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/Olimon660
+  link: https://github.com/ZhaoxiangSimonCai
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/zhaoxiang-cai/
