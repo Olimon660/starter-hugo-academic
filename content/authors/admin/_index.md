@@ -72,6 +72,6 @@ email: ""
 highlight_name: true
 ---
 
-Innovative researcher and engineer with experience in both academia and industry. Worked on extremely large-scale systems while working for Goldman Sachs and world-leading international research projects during PhD. Always passionate about taking cutting-edge research outcome into usable products, especially in healthcare industry. Enjoy playing the piano, skiing and badminton in spare time.
+I am an innovative researcher and engineer with experience in both academia and industry. I have worked on extremely large-scale systems while working for Goldman Sachs and world-leading international research projects during PhD. I am always passionate about taking cutting-edge research outcome into usable products, especially in healthcare industry. My current research interest is in cancer, and I believe the marriage of artificial intelligence and molecular biology will shift the paradigm of cancer research, expedite the development of new therapies, and allow patients to live longer and better. I enjoy playing the piano, skiing and badminton in spare time.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Zhaoxiang Cai CV - general.pdf" "newtab" >}}resumé{{< /staticref >}}.
