@@ -8,18 +8,17 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: ''
   font_size: L
 
 # SEO
-
 marketing:
   seo:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: ''
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -27,7 +26,9 @@ marketing:
     google: ''
     baidu: ''
 
-# Site header
+# Contact (edit or remove options as required)
+
+email: zhaoxiang.cai@hotmail.com
 
 header:
   navbar:
@@ -43,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
       enable: true
       allow_derivatives: false
